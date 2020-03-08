@@ -16,7 +16,7 @@ def submit():
 
 
 root = Tk()
-root.title("DATA ENTRY FORM")
+root.title("Bill Table")
 root.geometry("560x360+120+120")
 
 
