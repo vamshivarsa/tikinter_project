@@ -22,7 +22,7 @@ root.title("Multiple windows")
 root.geometry("560x360+120+120")
 
 label1=Label(text="THIS IS MAIN WINDOW",fg="green")
-label1.pack()
+label1.grid(row=3,column=3)
 
 
 #menu section
